@@ -1,5 +1,3 @@
-//FINAL DRAFT 03.
-
 #include <iostream>
 #include <vector>
 #include <limits>
